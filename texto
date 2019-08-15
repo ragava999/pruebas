@@ -1,4 +1,8 @@
 texto
 primera modificacion
 segunda modificacion
+<<<<<<< HEAD
 modificacion desde origen
+=======
+cuarta modificacion
+>>>>>>> primera-rama
